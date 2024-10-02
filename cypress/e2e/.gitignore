@@ -1,0 +1,15 @@
+
+
+node_modules/
+.idea/
+.vscode/
+
+*.log
+*.tmp
+.npm/
+.cache/
+.cypress/
+
+
+
+
