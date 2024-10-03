@@ -33,17 +33,17 @@ Projeto desenvolvido com:
 
 ### Testes:
 
-## Relatório:
+## Evidências:
 
-![img.png](relatorioTestes.png)
+![relatório completo:](cypress/relatorioTestes.png)
 
 
 1) Ao chamar a API sem o campo 'scope' o retorno é 200(OK) e não 400(invalida)  
 
-![img.png](semScope.png)
+![semScope](cypress/semScope.png)
 
 2) Ao chamar a API sem o campo 'Content-Type' o retorno é 200(OK) e não 400(invalida)  
 
-![img.png](semContent-Type.png)
+![semContent-Type](cypress/semContent-Type.png)
  
  
