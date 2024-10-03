@@ -1,0 +1,23 @@
+{
+  "name": "cypressapi",
+  "version": "1.0.0",
+  "description": "Desafio técnico para automação de testes de autenticação em uma API",
+  "main": "cypress.config.js",
+  "dependencies": {
+    "cypress": "^13.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edson86Nunes/CypressAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edson86Nunes/CypressAPI/issues"
+  },
+  "homepage": "https://github.com/Edson86Nunes/CypressAPI#readme"
+}
